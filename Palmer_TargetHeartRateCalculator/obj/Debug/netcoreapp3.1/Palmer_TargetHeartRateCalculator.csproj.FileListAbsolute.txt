@@ -1,0 +1,15 @@
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.exe
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.deps.json
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.runtimeconfig.json
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.runtimeconfig.dev.json
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.dll
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\bin\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.pdb
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.csprojAssemblyReference.cache
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.Form1.resources
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.csproj.GenerateResource.cache
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.AssemblyInfoInputs.cache
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.AssemblyInfo.cs
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.dll
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.pdb
+C:\Users\Apex1\source\C#\Palmer_TargetHeartRateCalculator\Palmer_TargetHeartRateCalculator\obj\Debug\netcoreapp3.1\Palmer_TargetHeartRateCalculator.genruntimeconfig.cache
